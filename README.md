@@ -61,5 +61,3 @@ hobbies: ["Chess", "Cinema", "Competitive Gaming", "Sudoku"]
 ```
 
 <div align="center"><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ilal88pjcw4an3qpvcfk25vxbtp907mhe8dsvs9h&rid=giphy.gif&ct=g"></div>
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=AliEmreUlus&custom_title=Ali%20Emre's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
